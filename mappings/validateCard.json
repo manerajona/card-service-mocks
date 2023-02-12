@@ -1,0 +1,13 @@
+{
+  "request": {
+      "method": "POST",
+      "url": "/v1/cards/validate"
+  },
+  "response": {
+      "status": 200,
+      "body": "true",
+      "headers": {
+          "Content-Type": "text/plain"
+      }
+  }
+}
